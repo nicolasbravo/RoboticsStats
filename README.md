@@ -11,4 +11,4 @@ Predictions for two robotics teams were done by using the OPR for each team comp
 
 ### 612 Chantilly Robotics, Chesapeake Owings Mills Event, (Cancelled)
 
-![Probability of Placement Position for 612 Chantilly Robotics at Owings Mills 10000 Trials Adjusted](612Chart.png)
+![Probability of Placement Position for 612 Chantilly Robotics at Owings Mills 10000 Trials Adjusted](ChantillyChart.png)
